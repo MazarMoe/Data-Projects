@@ -1,0 +1,42 @@
+# 🏔️ Himalayan Peaks Analysis
+
+This project presents a data-driven comparison of some of the highest peaks in the Himalayan range, with a special focus on **Mount Everest**. Through visual analysis, it explores the elevations of notable mountains and their popularity among climbers.
+
+---
+
+## 📘 Project Overview
+
+The goal of this project is to visualize and compare:
+
+* The **elevation** of major Himalayan mountains.
+* The **number of successful summits** for each peak.
+* The **popularity** of Mount Everest compared to other peaks, particularly in the context of the **Seven Summits challenge**.
+
+The visualization highlights the prominence of Mount Everest, both geographically and culturally, within the mountaineering community.
+
+---
+
+## 📊 Key Findings
+
+### 🗻 Elevation Comparison
+
+* **Mount Everest**: 8,849 meters (8.85K) – *Highest peak in the world*
+* **Kangchenjunga**: 8,586 meters (8.59K)
+* **Lhotse**: 8,516 meters (8.52K)
+* **Makalu**: 8,485 meters (8.49K)
+* **Cho Oyu**: 8,188 meters (8.19K)
+
+> Although Kangchenjunga and Lhotse are nearly as tall, Everest stands as the most iconic.
+
+### 🧗 Climbing Popularity
+
+* **Mount Everest** sees a dramatically higher number of climbers than any other peak.
+* Its inclusion in the **Seven Summits** challenge makes it the most sought-after mountain to summit globally.
+* Other high peaks like **Annapurna**, **Cho Oyu**, and **Makalu** attract significantly fewer climbers.
+
+---
+
+## 📌 Conclusion
+
+Mount Everest is not only the highest peak in the world but also the most popular among climbers. This project illustrates how **geographic stature** and **cultural significance** combine to make Everest a unique phenomenon in mountaineering history.
+
