@@ -5,10 +5,10 @@
 
 
 ## 💼 About Me
-I'm a Data Analyst passionate about both **analytics** and **engineering**.  
+I'm a Data Analyst passionate about both the **analytics** and **engineering** side of things.
 I love working with data to find insights that matter, and transforming it into visuals and narratives that tell a story.  
 
-I'm equally fascinated by the **engineering systems** that power data workflows and am currently diving deeper into **data engineering**.  
+I'm also equally fascinated by the **engineering systems** that power data workflows and am currently diving deeper into **data engineering**.  
 I plan to post more projects as I continue learning and building my skills. 🚀
 
 ---
