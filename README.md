@@ -9,7 +9,7 @@ I'm a Data Analyst passionate about both the **analytics** and **engineering** s
 I love working with data to find insights that matter, and transforming it into visuals and narratives that tell a story.  
 
 I'm also equally fascinated by the **engineering systems** that power data workflows and am currently diving deeper into **data engineering**.  
-I plan to post more projects as I continue learning and building my skills. 🚀
+I plan to post more projects as I continue learning and building my data engineering skills. 🚀
 
 ---
 
